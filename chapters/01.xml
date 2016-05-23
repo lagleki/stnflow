@@ -1,0 +1,33 @@
+<chapter xml:id="chapter-phonology">
+  <title><anchor xml:id="c3"/>The Crash Course in Lojban</title>
+  <mediaobject xml:id="chapter-phonology-picture">
+    <alt>The picture for chapter 3</alt>
+    <imageobject>
+      <imagedata fileref="media/chapter-phonology.gif"  />
+    </imageobject>
+  </mediaobject>
+  <section xml:id="section-orthography">
+    <title><anchor xml:id="c3s1"/>Orthography</title>
+    <para>Lojban is designed so that any properly spoken Lojban utterance can be uniquely transcribed in writing, and any properly written Lojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Lojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Lojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Lojban by words. These two properties together are known technically as <quote>audio-visual isomorphism</quote>.</para>
+    <example role="pronunciation-example" xml:id="example-random-id-k2b9">
+      <title>
+        <anchor xml:id="c3e3d2"/>
+      </title>
+      <pronunciation>
+        <jbo>.i,ai,i,ai,on.</jbo>
+        <ipa>[ʔi jaj ji jaj jonʔ]</ipa>
+      </pronunciation>
+    </example>
+    <example role="interlinear-gloss-example" xml:id="example-random-id-ovFJ">
+      <title>
+        <anchor xml:id="c19e4d2"/>
+      </title>
+      <itemizedlist>
+        <listitem><para xml:lang="zh"> zhe<superscript>4</superscript> xiao<superscript>1</superscript>xi<superscript>2</superscript> :   wo<superscript>3</superscript> zhi<superscript>1</superscript>dao le </para></listitem>
+        <listitem><para>this news :   I know [perfective]</para></listitem>
+        <listitem><para>As for this news, I knew it.</para></listitem>
+        <listitem><para>I've heard this news already.</para></listitem>
+      </itemizedlist>
+    </example>
+  </section>
+</chapter>
